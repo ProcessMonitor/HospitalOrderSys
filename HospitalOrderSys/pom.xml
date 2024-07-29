@@ -79,9 +79,9 @@
 			<version>4.1.7.RELEASE</version>
 		</dependency>
 		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-context</artifactId>
-			<version>4.1.7.RELEASE</version>
+		  <groupId>org.springframework</groupId>
+		  <artifactId>spring-context</artifactId>
+		  <version>5.2.21.RELEASE</version>
 		</dependency>
 		<!-- 2)Spring DAO层 -->
 		<dependency>
